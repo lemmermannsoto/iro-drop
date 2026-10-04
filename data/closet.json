@@ -1,0 +1,53 @@
+{
+  "prendas": [
+    {
+      "nombre": "Jeans negro desgastado",
+      "tipo": "Bottom",
+      "color": "Negro",
+      "tono": "Oscuro",
+      "ocasion": "Casual"
+    },
+    {
+      "nombre": "Jeans azul clásico",
+      "tipo": "Bottom",
+      "color": "Azul",
+      "tono": "Claro",
+      "ocasion": "Casual"
+    },
+    {
+      "nombre": "Pantalones largos caqui/beige",
+      "tipo": "Bottom",
+      "color": "Caqui",
+      "tono": "Claro",
+      "ocasion": "Casual"
+    },
+    {
+      "nombre": "Polerón beige/gris claro",
+      "tipo": "Top",
+      "color": "Beige",
+      "tono": "Claro",
+      "ocasion": "Casual"
+    },
+    {
+      "nombre": "Polera negra Evangelion",
+      "tipo": "Top",
+      "color": "Negro",
+      "tono": "Oscuro",
+      "ocasion": "Urbano/Gym"
+    },
+    {
+      "nombre": "Polera blanca Radiohead",
+      "tipo": "Top",
+      "color": "Blanco",
+      "tono": "Claro",
+      "ocasion": "Urbano/Gym"
+    },
+    {
+      "nombre": "Chaqueta gris oscura con forro de chiporro",
+      "tipo": "Abrigo",
+      "color": "Gris",
+      "tono": "Oscuro",
+      "ocasion": "Frio/Nocturno"
+    }
+  ]
+}
